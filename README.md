@@ -1,24 +1,34 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Aseel Himeidan
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+👋 Hi, I'm Aseel Himeidan, a Software Development student at IU International University of Applied Sciences. I'm interested in building thoughtful, useful software and growing as a full-stack developer. I'm especially curious about how AI can be developed safely and how cloud technologies can support modern applications.
+
+- 🎓 Education: Software Development, IU International University of Applied Sciences
+- 💻 GitHub: [@Aseel-Himeidan](https://github.com/Aseel-Himeidan) · 6 public repositories
+
+## MLH Events
+
+![A cute animated graphic showing 4 MLH events attended](assets/mlh-events.svg)
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+
+- 📄 [Online Resume](https://github.com/Aseel-Himeidan/fullstackcapstone-1) — An online resume built with HTML as a full-stack course project. (HTML)
+- 📚 [Book Management](https://github.com/Aseel-Himeidan/Book-Management-) — A book-management project. (JavaScript)
+- 🧰 [Git Journey](https://github.com/Aseel-Himeidan/git-journey) — A project for practicing Git and GitHub.
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
+- 🧰 Languages & technologies: Java, C, HTML, CSS, JavaScript, JSON, Git, GitHub
+- 🔭 Current focus: Full-stack web development
+- 🎯 Goal: Become a versatile full-stack software developer
+- ❤️ Interests: AI engineering, AI safety, cloud development, and mobile engineering
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aseelhimeidan/)
+- [DEV Community](https://dev.to/aseelhimeidan)
+- [Hashnode](https://sulanotes.hashnode.dev/)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
